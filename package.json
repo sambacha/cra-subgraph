@@ -21,7 +21,7 @@
     "react-dom": "16.14.0",
     "react-scripts": "4.0.2",
     "subscriptions-transport-ws": "0.9.18",
-    "typescript": "3.9.7"
+    "typescript": "3.9.9"
   },
   "scripts": {
     "start": "react-scripts start",
