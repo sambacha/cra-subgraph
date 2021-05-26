@@ -16,7 +16,7 @@
     "apollo-link-ws": "1.0.20",
     "dotenv-flow": "3.2.0",
     "graphql": "14.7.0",
-    "graphql-tag": "2.11.0",
+    "graphql-tag": "2.12.4",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "react-scripts": "4.0.2",
@@ -62,7 +62,7 @@
     ]
   },
   "devDependencies": {
-    "apollo": "2.32.0",
+    "apollo": "2.33.4",
     "eslint-config-prettier": "6.15.0",
     "eslint-plugin-import": "2.22.1",
     "eslint-plugin-prettier": "3.3.0",
